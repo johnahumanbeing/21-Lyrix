@@ -1,4 +1,4 @@
-# Welcome to 21-Lyrix , your to go site to search for your favourite song !
+# Welcome to 21-Lyrix , your to go site to search for your favourite song lyrics!
 
 21-Lyrix is a lyric music app that allows you to search for your favorite songs and view their lyrics. Whether you're looking for the lyrics to a popular hit or want to discover new songs, 21-Lyrix has got you covered.
 
