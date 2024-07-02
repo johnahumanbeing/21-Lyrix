@@ -63,6 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [contact@21lyrix.com](mailto:mseewak@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [contact@21lyrix.com](mailto:mseewak@gmail.com).
 
 Happy listening!
