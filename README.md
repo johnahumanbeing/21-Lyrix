@@ -18,8 +18,12 @@ To get started with 21-Lyrix, follow these steps:
     ```bash
     git clone https://github.com/johnahumanbeing/21-lyrix.git
     ```
+2. Switch to the main directory
+    ```
+    cd lyrics-app
+    ```
 
-2. Install the necessary dependencies:
+3. Install the necessary dependencies:
 
     ```bash
     npm install
