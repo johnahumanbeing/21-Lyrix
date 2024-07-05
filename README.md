@@ -28,7 +28,7 @@ To get started with 21-Lyrix, follow these steps:
 3. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. Open your browser and navigate to `http://localhost:3000` to access the app.
