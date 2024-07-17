@@ -9,7 +9,7 @@
 
 - Get the lyrics of any track using Genius API from RapidAPI Hub.
 
-4. Create `.env.local` file in root and add your RapidAPI key.
+4. Create a `.env.local` file in the root and add your RapidAPI key.
 
 ```bash
 NEXT_PUBLIC_RAPIDAPI_KEY=YOUR_RAPID_API_KEY
